@@ -8,7 +8,8 @@ module.exports = {
   content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
   theme: {
     colors: {
-      current: 'currentColor',
+      lightblue:'#31fcebb9',
+      blue:'#003af9c1',
       transparent: 'transparent',
       white: '#ffffff',
       primary: colors.stone,
